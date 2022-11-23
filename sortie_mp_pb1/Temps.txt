@@ -1,0 +1,8 @@
+Pour un découpage en 1 processus : 	 le temps de calcul est 191.05124711990356
+Pour un découpage en 2 processus : 	 le temps de calcul est 174.41948127746582
+Pour un découpage en 3 processus : 	 le temps de calcul est 135.3222427368164
+Pour un découpage en 4 processus : 	 le temps de calcul est 123.07841777801514
+Pour un découpage en 5 processus : 	 le temps de calcul est 119.58983945846558
+Pour un découpage en 6 processus : 	 le temps de calcul est 123.57319259643555
+Pour un découpage en 7 processus : 	 le temps de calcul est 128.2058322429657
+Pour un découpage en 8 processus : 	 le temps de calcul est 130.06675243377686
